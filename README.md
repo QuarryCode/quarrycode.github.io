@@ -1,2 +1,1 @@
-# quarrycode.github.io
-Quarrycode website
+# quarrycode.com
